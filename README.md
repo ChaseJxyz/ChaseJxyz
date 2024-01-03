@@ -12,49 +12,6 @@ I'm most familiar/comfortable with HTML \+ CSS and can do SOME JavaScript, thoug
 
 Contact info can be found on my profile's sidebar or on my website \(which is also in the sidebar\).
 
-### Projects
-
-#### Brazhenfall
-
-- Adult epic fantasy (dead trees) novel
-
-- A kaiju destroys half the kingdom. A growing revolution between humans and their phoenix overlords threatens what's left
-
-- Preparing for submissions
-
-#### Ferric Oxide
-- Dark fantasy romance (TM/TM) (dead trees) novel
-
-- A trans monster hunter contracts lycanthropy—which is surprisingly gender-affirming—but now finds himself the hunted
-
-- Outlined, writing
-
-#### ```<Inspect>```
-
-- Paranormal mystery interactive web novel slash HTML5 "game"
-
-- True-crime fanatic is determined to clear the name of his childhood friend when he discovers he can alter evidence—and reality.
-
-- Alpha build available [here](http://inspect-if.xyz/)
-
-#### Project Zed
-
-- Sci-fi visual novel
-
-- It's an idea that's existed in some format for a really long time, mostly being used to test out various things
-
-- Will actually make it once I have the budget to pay for all the art/audio/programming it will require
-
-#### Etc
-
-- "Dead trees" means a mundane, static "normal" story, that can be read on dead trees (paper), eReaders, a webpage or the like
-
-- I'm always looking to collaborate with others!
-
-- Would love to contribute story/characters/world-building for a game, podcast, comic, ARG or other experimental formats
-
-- I'm most familiar with speculative fiction genres, but I love trying out new things! I find creative challenges to be enjoyable to tackle and solve
-
 ### Fun Facts
 
 - Absolutely chock-full of bird facts
