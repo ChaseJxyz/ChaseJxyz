@@ -1,20 +1,25 @@
 ### Hello!
 
-I'm Chase! J dot xyz. I consider myself a "digital storyteller" since I love creating stories in digital formats. A lot of the time that's just writing words to be read on the web, but sometimes that also means interactive stuff, too. Those things will go here.
+I'm Chase! J dot xyz. I consider myself a "digital storyteller," as I love creating stories in and for digital formats. That usually means writing words to be read on the web, but also interactive stuff, too. Sourcecode for the latter will go here.
 
-Bachelor's of Science degree in Journalism with Creative Writing minor (and some web makin' classes) \- Rochester Institute of Technology 2013.
+I hold a Bachelor of Science degree in journalism with a creative writing minor (plus some web design/management classes) from the Rochester Institute of Technology (go tigers 🐯). I'm constantly learning new things, but feel free to check [/certList.md](/certList.md) if you want to see the "official" courses I've taken post-college.
 
-Digital marketing analyst day job at eCommerce B2B \+ B2C book retailer. San Francisco Bay Area, California.
+The day job is marketplace integration management and digital marketing analysis/management at a B2B \+ B2C book retailer.
 
 He/him or they/them.
 
-I'm most familiar/comfortable with HTML \+ CSS and can do SOME JavaScript, though anything more than basic 90's websites is out of my skill level at this point. I know some Python, too, and want to learn more. I can do Markdown but I don't like it, I'd much rather use a program where I can SEE the formatting as it happens. I write normal words in Word or Scrivener and then turn them into interactive things in VSCode. I use Excel in ways it shouldn't, and I'll definitely learn Python once they put it in Excel.
+I'm most familiar/comfortable with HTML \+ CSS and can do *some* JavaScript, as well as WordPress management (from user to admin/owner). I know some Python and SQL, too, and want to learn more. I can do Markdown (as you can see here!), but I'm not a huge fan. I can make Excel do things it probably shouldn't, and begrudgingly do similar with GSheets and LibreCalc.
 
-Contact info can be found on my profile's sidebar or on my website \(which is also in the sidebar\).
+I can write, revise, edit, and publish pretty much any sort of writing in any sort of avenue: fiction, poetry, marketing copy, blogs, websites, zines, posts, periodicals, books, even video games! While I have my own opinions on things like em dashes and the serial comma, I'm very flexible and can adhere to whatever style guide you use :)
+
+### Writing Samples
+
+* Fiction: [science fantasy](https://www.loreleisignal.com/an-atomic-fairy-tale) | [fantasy](https://androidsanddragons.substack.com/p/carcinographic-classifieds) | [liteary](https://inner-worlds.ghost.io/inner-worlds-3-subsume-chase-anderson/) | [tech startup critique/satire](https://www.thepinkhydra.com/issues/0101202407/howtosurvive/) | [and old computers!](https://www.chasej.xyz/move-x-to-y2k/)
+* Blogging: [for a company](https://www.alibris.com/blog/an-introduction-to-punk-genres-in-speculative-fiction/) | for me: [video game opinions](https://www.chasej.xyz/2024/11/02/a-very-opinionated-overview-of-pokemon-tcg-pocket-from-a-third-rate-duelist/) and [writing opinions](https://www.chasej.xyz/2024/09/28/why-adverbs-are-good-actually/)
 
 ### Fun Facts
 
-- Absolutely chock-full of bird facts
+- Absolutely chock-full of bird facts, will identify your backyard visitors
 
 - Expert at generating terrible ideas
 

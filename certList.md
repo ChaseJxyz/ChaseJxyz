@@ -4,7 +4,7 @@ Since I sure as heck can't afford to go back to college (and I don't have any so
 
 If I gave you a link to my portfolio, there's a folder that has PDFs of all the relevent ones. This is a "master" list of all of them, grouped by "type"/impressiveness (i.e. was there a proctored exam attached, do they confer CPEs, etc.). I'll also list a couple skills that are attached to each, to give some context.
 
-*Format: Name, granting authority, date recieved | relevent skills/credits*
+*Format: Name, granting authority, month/year received | relevent skills/credits*
 
 #### Technology - via examination
 * Certified in Cybersecurity (CC), ISC2, Apr 25 | cybersecurity, computer networking, security controls, business continuity
@@ -34,5 +34,9 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Writing - etc.
+* Grammar Foundations, LinkedIn Learning, Apr 25 | written communication, English grammar
+* Advanced Grammar, LinkedIn Learning, Apr 25 | English grammar
 * Writing with Commonly Confused Words, LinkedIn Learning, Apr 25 | English grammar
+* Writing with Proper Punctuation, LinkedIn Learning, Apr 25 | Punctuation
+* Editing Mastery: How to Edit Writing to Perfection, LinkedIn Learning, Apr 25 | editing
 * Grammar Girl's Quick and Dirty Tips for Better Writing, LinkedIn Learning, Apr 25 | English grammar
