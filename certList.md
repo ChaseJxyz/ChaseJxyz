@@ -11,6 +11,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Technology - CPE courses
+* Secure Your Fortress: Building Robust and Resilient Defenses for 2025, SANS Institute, Apr 25 | social engineering, AI (7 credits)
 * New2Cyber Summit 2025, SANS Institute, Mar 25 | cybersecurity fundamentals (6 credits)
 
 
