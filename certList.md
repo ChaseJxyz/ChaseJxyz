@@ -8,6 +8,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 #### Technology - test/exam
 * Certified in Cybersecurity (CC), ISC2, Apr 25 | cybersecurity, computer networking, security controls, business continuity
+* Everything you need to pass the CompTIA Security+ (SYO-701) exam, Udemy, May 25 | cybersecurity, computer networking, security controls, business continuity
 
 
 #### Technology - CPE courses
