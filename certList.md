@@ -7,6 +7,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 *Format: Name, granting authority, month/year received | relevent skills/credits*
 
 #### Technology - test/exam
+* Security+, CompTIA, May 25 | cybersecurity, computer networking, security controls, business continuity
 * Certified in Cybersecurity (CC), ISC2, Apr 25 | cybersecurity, computer networking, security controls, business continuity
 
 
