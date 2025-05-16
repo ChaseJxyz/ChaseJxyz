@@ -12,6 +12,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Technology - CPEs
+* Emerging Threats Summit, SANS Institute, May 25 | post-quantum cryptography, generative AI
 * Secure Your Fortress: Building Robust and Resilient Defenses for 2025, SANS Institute, Apr 25 | social engineering, AI (7 credits)
 * New2Cyber Summit 2025, SANS Institute, Mar 25 | cybersecurity fundamentals (6 credits)
 * Spring Cyber Solutions Fest 2025: Zero Trust Track, SANS Institute, Mar 25 | zero trust principles, IAM, just in time access (3 credits)
