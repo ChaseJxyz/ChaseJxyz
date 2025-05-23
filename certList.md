@@ -12,6 +12,8 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Technology - CPEs
+* Navigating Uncertainty in Today's Threat Landscape, SANS Institute, May 25 | CTI (3 credits)
+* Resiliency and Business Continuity in the Cloud Era, SANS Institute, May 25 | business continuity (1 credit)
 * Emerging Threats Summit, SANS Institute, May 25 | post-quantum cryptography, generative AI
 * Secure Your Fortress: Building Robust and Resilient Defenses for 2025, SANS Institute, Apr 25 | social engineering, AI (7 credits)
 * New2Cyber Summit 2025, SANS Institute, Mar 25 | cybersecurity fundamentals (6 credits)
