@@ -12,6 +12,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Technology - CPEs
+* Ransomware Summit Solutions Track, SANS Institue, May 25 | ransomware, business continuity (5 credits)
 * Navigating Uncertainty in Today's Threat Landscape, SANS Institute, May 25 | CTI (3 credits)
 * Resiliency and Business Continuity in the Cloud Era, SANS Institute, May 25 | business continuity (1 credit)
 * Emerging Threats Summit, SANS Institute, May 25 | post-quantum cryptography, generative AI
