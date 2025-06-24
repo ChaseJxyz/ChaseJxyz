@@ -1,14 +1,20 @@
 ### Hello!
 
-I'm Chase! J dot xyz. I consider myself a "digital storyteller," as I love creating stories in and for digital formats. That usually means writing words to be read on the web, but also interactive stuff, too. Sourcecode for the latter will go here.
+I'm Chase! J dot xyz. I consider myself a "digital storyteller," as I love creating stories in and for digital formats. That usually means writing words to be read on the web, and sometimes interactive stuff. Sourcecode for the latter will go here [[here](https://github.com/ChaseJxyz/interactive-fiction)].
 
-I hold a Bachelor of Science degree in journalism with a creative writing minor (plus some web design/management classes) from the Rochester Institute of Technology (go tigers 🐯). I'm constantly learning new things, but feel free to check [/certList.md](/certList.md) if you want to see the "official" courses I've taken post-college.
+I hold a Bachelor of Science degree in journalism with a creative writing minor (plus some web design/management classes) from the Rochester Institute of Technology (go tigers 🐯). Spent too much time in/around the game design & development department, nad it shows. I'm constantly learning new things, but feel free to check [/certList.md](/certList.md) if you want to see the "official" courses I've taken post-college.
 
-The day job is marketplace integration management and digital marketing analysis/management at a B2B \+ B2C book retailer.
+The day job is marketplace integration management and digital marketing analysis/management at a B2B \+ B2C book retailer. Looking to take a more hands-on role in cybersecurity.
 
 He/him or they/them.
 
-I'm most familiar/comfortable with HTML \+ CSS and can do *some* JavaScript, as well as WordPress management (from user to admin/owner). I know some Python and SQL, too, and want to learn more. I can do Markdown (as you can see here!), but I'm not a huge fan. I can make Excel do things it probably shouldn't, and begrudgingly do similar with GSheets and LibreCalc.
+Languages/software/DEs/??? (in no particular order):
+* HTML/CSS
+* Inform7
+* Twine (Harlowe + Sugarcube)
+* Microsoft Excel / Google Sheets / LibreCalc
+* Markdown, XML
+* Python
 
 I can write, revise, edit, and publish pretty much any sort of writing in any sort of avenue: fiction, poetry, marketing copy, blogs, websites, zines, posts, periodicals, books, even video games! While I have my own opinions on things like em dashes and the serial comma, I'm very flexible and can adhere to whatever style guide you use :)
 
