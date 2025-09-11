@@ -22,7 +22,7 @@ I can write, revise, edit, and publish pretty much any sort of writing in any so
 
 ### Writing Samples
 
-* Fiction: [science fantasy](https://www.loreleisignal.com/an-atomic-fairy-tale) | [fantasy](https://androidsanddragons.substack.com/p/carcinographic-classifieds) | [liteary](https://inner-worlds.ghost.io/inner-worlds-3-subsume-chase-anderson/) | [tech startup critique/satire](https://www.thepinkhydra.com/issues/0101202407/howtosurvive/) | [and old computers!](https://www.chasej.xyz/move-x-to-y2k/)
+* Fiction: [science fantasy](https://www.loreleisignal.com/an-atomic-fairy-tale) | [fantasy](https://androidsanddragons.substack.com/p/carcinographic-classifieds) | [literary](https://inner-worlds.ghost.io/inner-worlds-3-subsume-chase-anderson/) | [tech startup critique/satire](https://www.thepinkhydra.com/issues/0101202407/howtosurvive/) | [and old computers!](https://www.chasej.xyz/move-x-to-y2k/)
 * Blogging: [for a company](https://www.alibris.com/blog/an-introduction-to-punk-genres-in-speculative-fiction/) | for me: [video game opinions](https://www.chasej.xyz/2024/11/02/a-very-opinionated-overview-of-pokemon-tcg-pocket-from-a-third-rate-duelist/) and [writing opinions](https://www.chasej.xyz/2024/09/28/why-adverbs-are-good-actually/)
 
 ### Fun Facts

@@ -2,9 +2,9 @@
 
 Since I sure as heck can't afford to go back to college (and I don't have any sort of tuition/training benefits from work), I have to pick up all sorts of courses from all over the place!
 
-If I gave you a link to my portfolio, there's a folder that has PDFs of all the relevent ones. This is a "master" list of all of them, grouped by "type"/impressiveness (i.e. was there a proctored exam attached, do they confer CPEs, etc.). I'll also list a couple skills that are attached to each, to give some context.
+If I gave you a link to my portfolio, there's a folder that has PDFs of all the relevant ones. This is a "master" list of all of them, grouped by "type"/impressiveness (i.e. was there a proctored exam attached, do they confer CPEs, etc.). I'll also list a couple skills that are attached to each, to give some context.
 
-*Format: Name, granting authority, month/year received | relevent skills/credits*
+*Format: Name, granting authority, month/year received | relevant skills/credits*
 
 #### Technology - test/exam
 * Security+, CompTIA, May 25 | cybersecurity, computer networking, security controls, business continuity
@@ -12,7 +12,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Technology - CPEs
-* Ransomware Summit Solutions Track, SANS Institue, May 25 | ransomware, business continuity (5 credits)
+* Ransomware Summit Solutions Track, SANS institute, May 25 | ransomware, business continuity (5 credits)
 * Navigating Uncertainty in Today's Threat Landscape, SANS Institute, May 25 | CTI (3 credits)
 * Resiliency and Business Continuity in the Cloud Era, SANS Institute, May 25 | business continuity (1 credit)
 * Emerging Threats Summit, SANS Institute, May 25 | post-quantum cryptography, generative AI
