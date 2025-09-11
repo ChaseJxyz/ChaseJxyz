@@ -22,6 +22,7 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 
 
 #### Technology - etc.
+* Student SOC Program Foundations training, Microsoft, Sept 25 | SOC roles, IR, Security Copilot
 * Everything you need to pass the CompTIA Security+ (SYO-701) exam, Udemy, May 25 | cybersecurity, computer networking, security controls, business continuity
 * Ubuntu Linux, LinkedIn Learning & Canonical, Apr 25 | Bash, Linux system administration, user management, Ubuntu
 * Microsoft Security Essentials, LinkedIn Learning & Microsoft, Mar 25 | Microsoft security, GRC, cloud security
