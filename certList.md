@@ -7,17 +7,23 @@ If I gave you a link to my portfolio, there's a folder that has PDFs of all the 
 *Format: Name, granting authority, month/year received | relevent skills/credits*
 
 #### Technology - test/exam
+* Security+, CompTIA, May 25 | cybersecurity, computer networking, security controls, business continuity
 * Certified in Cybersecurity (CC), ISC2, Apr 25 | cybersecurity, computer networking, security controls, business continuity
 
 
-#### Technology - CPE courses
+#### Technology - CPEs
+* Ransomware Summit Solutions Track, SANS Institue, May 25 | ransomware, business continuity (5 credits)
+* Navigating Uncertainty in Today's Threat Landscape, SANS Institute, May 25 | CTI (3 credits)
+* Resiliency and Business Continuity in the Cloud Era, SANS Institute, May 25 | business continuity (1 credit)
+* Emerging Threats Summit, SANS Institute, May 25 | post-quantum cryptography, generative AI
 * Secure Your Fortress: Building Robust and Resilient Defenses for 2025, SANS Institute, Apr 25 | social engineering, AI (7 credits)
 * New2Cyber Summit 2025, SANS Institute, Mar 25 | cybersecurity fundamentals (6 credits)
+* Spring Cyber Solutions Fest 2025: Zero Trust Track, SANS Institute, Mar 25 | zero trust principles, IAM, just in time access (3 credits)
 
 
 #### Technology - etc.
+* Everything you need to pass the CompTIA Security+ (SYO-701) exam, Udemy, May 25 | cybersecurity, computer networking, security controls, business continuity
 * Ubuntu Linux, LinkedIn Learning & Canonical, Apr 25 | Bash, Linux system administration, user management, Ubuntu
-* Spring Cyber Solutions Fest 2025: Zero Trust Track, SANS Institute, Mar 25 | zero trust principles, IAM, just in time access
 * Microsoft Security Essentials, LinkedIn Learning & Microsoft, Mar 25 | Microsoft security, GRC, cloud security
 * Cert Prep: ISC2 Certified in Cybersecurity (CC), LinkedIn Learning, Mar 25 | cybersecurity fundamentals
 * CC Course Conclusion & Final Assessment, ISC2, Mar 25 | cybersecurity, computer networking, security controls, business continuity
