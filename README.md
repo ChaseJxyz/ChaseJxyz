@@ -2,7 +2,9 @@
 
 I'm Chase! J dot xyz. I consider myself a "digital storyteller," as I love creating stories in and for digital formats. That usually means writing words to be read on the web, and sometimes interactive stuff. Sourcecode for the latter will go here [[here](https://github.com/ChaseJxyz/interactive-fiction)].
 
-I hold a Bachelor of Science degree in journalism with a creative writing minor (plus some web design/management classes) from the Rochester Institute of Technology (go tigers 🐯). Spent too much time in/around the game design & development department, nad it shows. I'm constantly learning new things, but feel free to check [/certList.md](/certList.md) if you want to see the "official" courses I've taken post-college.
+I hold a Bachelor of Science degree in journalism with a creative writing minor (plus some web design/management classes) from the Rochester Institute of Technology (go tigers 🐯). Spent too much time in/around the game design & development department, and it shows. I'm currently working on a second Bachelor's degree for computer science with an information security concentration from Southern New Hampshire University.
+
+I'm constantly learning new things, but feel free to check [/certList.md](/certList.md) if you want to see the "official" courses I've taken post-college.
 
 The day job is marketplace integration management and digital marketing analysis/management at a B2B \+ B2C book retailer. Looking to take a more hands-on role in cybersecurity.
 
@@ -16,7 +18,7 @@ Languages/software/DEs/??? (in no particular order):
 * Markdown, XML
 * Python
 
-I can write, revise, edit, and publish pretty much any sort of writing in any sort of avenue: fiction, poetry, marketing copy, blogs, websites, zines, posts, periodicals, books, even video games! While I have my own opinions on things like em dashes and the serial comma, I'm very flexible and can adhere to whatever style guide you use :)
+I can write, revise, edit, and publish pretty much any sort of writing in any sort of avenue: fiction, poetry, marketing copy, blogs, websites, zines, posts, periodicals, books, even video games! While I have my own opinions on things like em dashes and the serial comma, I'm very flexible and can adhere to whatever style guide you use :\)
 
 ### Writing Samples
 
