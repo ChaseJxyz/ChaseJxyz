@@ -1,26 +1,14 @@
 ### Info
 
-Since I sure as heck can't afford to go back to college (and I don't have any sort of tuition/training benefits from work), I have to pick up all sorts of courses from all over the place!
-
-If I gave you a link to my portfolio, there's a folder that has PDFs of all the relevant ones. This is a "master" list of all of them, grouped by "type"/impressiveness (i.e. was there a proctored exam attached, do they confer CPEs, etc.). I'll also list a couple skills that are attached to each, to give some context.
+This is a "master" list of all of my certifications/certificates, grouped by "type"/impressiveness (i.e. was there a proctored exam attached, do they confer CPEs, etc.). I'll also list a couple skills that are attached to each, to give some context.
 
 *Format: Name, granting authority, month/year received | relevant skills/credits*
 
 #### Technology - test/exam
+* Security Essentials (GSEC), GIAC, Apr 26 | cryptography, incident handling, defensible network architeture
 * Foundational Cybersecurity Techologies (GFACT), GIAC, Jan 26 | computer networking, programming, security concepts
 * Security+, CompTIA, May 25 | cybersecurity, computer networking, security controls, business continuity
 * Certified in Cybersecurity (CC), ISC2, Apr 25 | cybersecurity, computer networking, security controls, business continuity
-
-
-#### Technology - CPEs
-* Ransomware Summit Solutions Track, SANS institute, May 25 | ransomware, business continuity (5 credits)
-* Navigating Uncertainty in Today's Threat Landscape, SANS Institute, May 25 | CTI (3 credits)
-* Resiliency and Business Continuity in the Cloud Era, SANS Institute, May 25 | business continuity (1 credit)
-* Emerging Threats Summit, SANS Institute, May 25 | post-quantum cryptography, generative AI
-* Secure Your Fortress: Building Robust and Resilient Defenses for 2025, SANS Institute, Apr 25 | social engineering, AI (7 credits)
-* New2Cyber Summit 2025, SANS Institute, Mar 25 | cybersecurity fundamentals (6 credits)
-* Spring Cyber Solutions Fest 2025: Zero Trust Track, SANS Institute, Mar 25 | zero trust principles, IAM, just in time access (3 credits)
-
 
 #### Technology - etc.
 * Student SOC Program Foundations training, Microsoft, Sept 25 | SOC roles, IR, Security Copilot
