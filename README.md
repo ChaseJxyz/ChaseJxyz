@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Chase J! dot xyz. I consider myself a "digital storyteller," as I love creating stories in and for digital formats. That usually means writing words to be read on the web, and sometimes interactive stuff. Check out my public repos!
+I'm Chase J!(.xyz). I consider myself a "digital storyteller," as I love creating stories in and for digital formats. That usually means writing words to be read on the web, and sometimes interactive stuff.
 
 I hold a Bachelor of Science degree in journalism with a creative writing minor (plus some web design/management classes) from the Rochester Institute of Technology (go tigers 🐯). Spent too much time in/around the game design & development department, and it shows. I'm currently working on a second Bachelor's degree for computer science with an information security concentration from Southern New Hampshire University. I recently finished SANS Technology Institute's Cyber Academy immersion program.
 
