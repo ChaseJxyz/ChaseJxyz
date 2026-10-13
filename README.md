@@ -9,7 +9,7 @@ I'm currently working on a second Bachelor's degree for computer science with an
 The day job is marketplace integration management and digital marketing analysis/management at a B2B \+ B2C book retailer, plus about a dozen other hats as required. My favorite parts are when I get to do incident handling, forensics, and searching for fraud (aka when I get to do security stuff). I'm always looking for opportunities to do more!
 
 ### Portfolio
-* [homeLab](https://github.com/ChaseJxyz/homeLab)
+* [homeLab](https://chasejxyz.github.io/homeLab/)
 * [SANS CTFs](https://ranges.io/profile/chasejxyz) (They don't allow write ups)
 * [Commonwealth Bank Cybersecurity Job Simulation](https://github.com/ChaseJxyz/Forage-Commonwealth-Bank) (Splunk, Burp Suite, sqlmap)
 * [Moksha Checker](https://github.com/ChaseJxyz/Moksha-Checker) (Python tool to automate scraping + data analysis of literary submission status pages)
